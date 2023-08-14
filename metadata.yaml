@@ -1,0 +1,41 @@
+_repo: John-s-Lily_71229
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Groome, William H. C.
+    aliases:
+    - Groome, W. H. C. (William H. C.)
+    - Groome, W.H.C.
+    birthdate: 1860
+    deathdate: 1914
+    gutenberg_agent_id: '9731'
+    url: http://www.gutenberg.org/2009/agents/9731
+creator:
+  author:
+    agent_name: Price, Eleanor C. (Eleanor Catherine)
+    deathdate: 1933
+    gutenberg_agent_id: '34352'
+    url: http://www.gutenberg.org/2009/agents/34352
+description: ''
+gutenberg_issued: '2023-07-19'
+identifiers:
+  gutenberg: '71229'
+language: en
+pgterms:marc905: 20230716095908price
+pgterms:marc906: '1892'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aUnited Kingdom :$bWells Gardner, Darton & Co., $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Villages -- England -- Fiction'
+- !lcsh 'Foundlings -- Fiction'
+- !lcsh 'Betrothal -- Fiction'
+- !lcsh 'Blacksmiths -- Fiction'
+- !lcsh 'Foster children -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: John's Lily
+url: http://www.gutenberg.org/ebooks/71229
